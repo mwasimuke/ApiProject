@@ -1,0 +1,1 @@
+﻿Create table ApiTable(id int identity not null,Name varchar(100) not null,Age int not null,Location Varchar(100),Country varchar(100) not null);
